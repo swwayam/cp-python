@@ -28,7 +28,9 @@ for iteration in range(0, time_for_arrangement):
 print("".join(current_arrangement))
 
 
-# To check - 
+# Optimal Implementation - 
 t=int(input()[2:]);s=input()
 while t:s=s.replace('BG','GB');t-=1
 print(s)
+
+ 

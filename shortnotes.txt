@@ -1,0 +1,1 @@
+1) We don't always need to write long loops / code sometimes it can be written in short format by using some inbuilt functions.
